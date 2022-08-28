@@ -22,14 +22,15 @@
 <br>
 <br>
 <p align="center">
-Welcome to my page, I am <strong>Madhur Upadhyay</strong>, B.Tech Electrical Engineering 2021 Graduate from College of Technology, GBPUAT, Pantnagar, India. I am currently learning Data Structures and Algorithms and Web Development.<br><br>I like bird watching and photography. You can have a look at my <a href="https://www.instagram.com/madhur3u/">Instagram Account</a> to see the photos clicked by me.
+Welcome to my page, I am <strong>Madhur Upadhyay</strong>, B.Tech Electrical Engineering 2021 Graduate from College of Technology, GBPUAT, Pantnagar, India. I am currently learning Data Structures and Algorithms.<br><br>I like bird watching and photography. You can have a look at my <a href="https://www.instagram.com/madhur3u/">Instagram Account</a> to see the photos clicked by me.
 </p>
 
 ### Languages Known
 <code><img height="50" src="https://user-images.githubusercontent.com/89251393/140463534-cd49291b-c66f-4b4b-a4f8-be9829267001.png"></code>
 <code><img height="40" src="https://user-images.githubusercontent.com/89251393/140463529-01c208cf-f529-4098-b0d9-c3ea6c25242e.png"></code> 
 <code><img height="40" src="https://user-images.githubusercontent.com/89251393/140463668-20ca6800-b42e-4675-802d-61845683c33b.png"></code> 
-<code><img height="40" src="https://user-images.githubusercontent.com/89251393/140463790-efe1506b-559d-4f60-9df8-0028cf021e9f.png"></code>
+<code><img height="40" src="https://user-images.githubusercontent.com/89251393/140463790-efe1506b-559d-4f60-9df8-0028cf021e9f.png"></code> 
+<code><img height="40" src="https://user-images.githubusercontent.com/89251393/187084881-dc2003a4-0e98-40b9-a5be-dc57e78c1baa.png"></code>
 
 <img src="https://github-readme-stats.vercel.app/api?username=madhur3u&show_icons=true&theme=gotham">
 
